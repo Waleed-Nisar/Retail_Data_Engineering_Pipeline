@@ -11,7 +11,7 @@ This project demonstrates a modern data engineering pipeline that processes reta
 
 ## 🏗️ Architecture
 Raw Data Sources → Bronze Layer → Silver Layer → Gold Layer → Power BI Dashboard
-     (CSV/Parquet)      (Raw)      (Cleaned)    (Aggregated)    (Visualization)
+     
 ![image](https://github.com/user-attachments/assets/d190107e-ac1d-429c-8aeb-b26898750953)
 
      
