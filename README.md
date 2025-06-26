@@ -51,4 +51,4 @@ The project includes a comprehensive Power BI dashboard with:
 * 🎯 Customer insights
 * 💰 Revenue metrics
 
-![image](https://github.com/user-attachments/assets/de575e86-3d73-4fbe-b3b1-d2377e535c7d)
+![image](https://github.com/user-attachments/assets/91fc7793-bb87-4c5c-b5dd-589907c634aa)
