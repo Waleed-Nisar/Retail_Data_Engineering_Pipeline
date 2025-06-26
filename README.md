@@ -39,3 +39,16 @@ Raw Data Sources → Bronze Layer → Silver Layer → Gold Layer → Power BI D
 * Average transaction values
 * Store performance metrics
 * Customer transaction patterns
+
+
+## 📊 Power BI Dashboard
+
+The project includes a comprehensive Power BI dashboard with:
+
+* 📈 Sales trends over time
+* 🏪 Store performance comparison
+* 📦 Product category analysis
+* 🎯 Customer insights
+* 💰 Revenue metrics
+
+![image](https://github.com/user-attachments/assets/de575e86-3d73-4fbe-b3b1-d2377e535c7d)
