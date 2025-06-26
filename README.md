@@ -1,7 +1,8 @@
 # Retail_Data_Engineering_Pipeline
 
 A complete Bronze-Silver-Gold data pipeline built with Azure Blob Storage and Python pandas, converting raw retail data into business intelligence insights.
-##🎯 Project Overview
+
+## 🎯 Project Overview
 This project demonstrates a modern data engineering pipeline that processes retail transaction data through three layers:
 
 🥉 Bronze Layer: Raw data ingestion from multiple sources
