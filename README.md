@@ -30,11 +30,11 @@ Data Format: Parquet files
 Visualization: Power BI
 Development: Databricks/Jupyter Notebooks
 
-📈 Key Metrics Generated
+## 📈 Key Metrics Generated
 
-Daily sales by product and store
-Total quantity sold per product
-Revenue analysis by category
-Average transaction values
-Store performance metrics
-Customer transaction patterns
+* Daily sales by product and store
+* Total quantity sold per product
+* Revenue analysis by category
+* Average transaction values
+* Store performance metrics
+* Customer transaction patterns
